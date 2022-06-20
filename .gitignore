@@ -1,0 +1,7 @@
+config.json
+*.csv
+*.zip
+
+node_modules/
+build/
+dist/
